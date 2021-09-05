@@ -28,7 +28,8 @@ Want to know more about me? [Check out my portfolio.](https://wordpress.com/home
 <br>
 
 <a href="https://github.com/Dip-Ghosh/Repository-Pattern-Project">
-  <img align="center" style="margin:0.5rem" src="https://github.com/Dip-Ghosh/Repository-Pattern-Project" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=
+Repository-Pattern-Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
