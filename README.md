@@ -1,16 +1,9 @@
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/dipghosh638)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dip-ghosh/)
-
-
 Hey there 👋
-
 I’m Dip, a  full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end and Backend development. I make it my mission to translate user-focused demand intoperfect websites or applications that run blazing fast.
-
-Want to know more about me? [Check out my portfolio.](https://wordpress.com/home/dipghosh.home.blog)
-
 ## 📝 Latest Blog Posts
-
 <br>
 
 <!-- BLOG-POST-LIST:START -->
