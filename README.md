@@ -15,6 +15,32 @@ I’m Dip, a  full-stack engineer, creative coder and self-proclaimed designer w
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Dip-Ghosh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
 
+
+## 📌 Pinned Repositories
+
+<a href="https://github.com/Dip-Ghosh/Repository-Pattern-Project">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Repository-Pattern-Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/Dip-Ghosh/Partner-Project">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Partner-Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Dip-Ghosh/Repository-service-pattern">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Repository-service-pattern&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Dip-Ghosh/teams-clone-engine-io">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=teams-clone-engine-io&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Dip-Ghosh/Vue-practice-crud">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Vue-practice-crud&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Dip-Ghosh/Social-media">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Social-media&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-CodeIgniter-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
@@ -44,35 +70,6 @@ I’m Dip, a  full-stack engineer, creative coder and self-proclaimed designer w
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Confluence-informational?style=flat&logo=Clubhouse&logoColor=white&color=4AB197)
-
-## 📌 Pinned Repositories
-
-<a href="https://github.com/Dip-Ghosh/Repository-Pattern-Project">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Repository-Pattern-Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<a href="https://github.com/Dip-Ghosh/Partner-Project">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Partner-Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/Dip-Ghosh/Repository-service-pattern">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Repository-service-pattern&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/Dip-Ghosh/teams-clone-engine-io">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=teams-clone-engine-io&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/Dip-Ghosh/Vue-practice-crud">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Vue-practice-crud&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/Dip-Ghosh/Social-media">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Social-media&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-
-<br>
-
 
 
 ## 📝 Latest Blog Posts
