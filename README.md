@@ -11,6 +11,33 @@ I’m Dip, a  full-stack engineer, creative coder and self-proclaimed designer w
 - [Writing Maintainable Code using SOLID Design Principles Explained in Laravel(Single Responsibility Principle)](https://wordpress.com/post/dipghosh.home.blog/66)
 - [Simple Javascript Vouchar](https://wordpress.com/post/dipghosh.home.blog/37)
 
+## 📌 Pinned Repositories
+
+<br>
+
+<a href="https://github.com/Dip-Ghosh/Repository-Pattern-Project">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Repository-Pattern-Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/braydoncoyer/pomegradient">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/braydoncoyer/ng-limeade">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/braydoncoyer/officeapi">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+<br>
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Dip-Ghosh">
@@ -51,5 +78,4 @@ I’m Dip, a  full-stack engineer, creative coder and self-proclaimed designer w
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Confluence-informational?style=flat&logo=Clubhouse&logoColor=white&color=4AB197)
 
-</details>
 
