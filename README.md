@@ -1,11 +1,10 @@
-[![Braydon's GitHub Banner](.//dip.image.jpg)](https://www.facebook.com/ghoshdip638/)
-<br>
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/dipghosh638)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dip-ghosh/)
 
 Hey there 👋
 I’m Dip, a  full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end and Backend development. I make it my mission to translate user-focused demand intoperfect websites or applications that run blazing fast.
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/dipghosh638)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dip-ghosh/)
+
 ## 📝 Latest Blog Posts
 
 - [Git ,a simple guide  for  version control system ,no deep shit.](https://wordpress.com/post/dipghosh.home.blog/44)
