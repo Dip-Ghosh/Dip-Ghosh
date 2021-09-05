@@ -1,6 +1,6 @@
 
 
-[![Visits Badge](https://img.shields.io/twitter/url?style=flat-square)](https://www.facebook.com/ghoshdip638/)
+[![Visits Badge](https://img.shields.io/twitter/url?style=plastic&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Fstyle%3Dflat-square%26url%3Dhttps%253A%252F%252Fwww.facebook.com%252Fghoshdip638%252F)](https://www.facebook.com/ghoshdip638/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/dipghosh638)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dip-ghosh/)
 
