@@ -1,6 +1,6 @@
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https://wordpress.com/home/dipghosh.home.blog)
+[![Visits Badge](https://img.shields.io/twitter/url?style=flat-square)](https://wordpress.com/home/dipghosh.home.blog)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/dipghosh638)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dip-ghosh/)
 
@@ -19,7 +19,7 @@ Want to know more about me? [Check out my portfolio.](https://wordpress.com/home
 - [Git ,a simple guide  for  version control system ,no deep shit.](https://wordpress.com/post/dipghosh.home.blog/44)
 - [Writing Maintainable Code using SOLID Design Principles Explained in Laravel(Interface Segregation Principle)](https://wordpress.com/post/dipghosh.home.blog/86)
 - [Writing Maintainable Code using SOLID Design Principles Explained in Laravel(Single Responsibility Principle)](https://wordpress.com/post/dipghosh.home.blog/66)
-- [https://wordpress.com/post/dipghosh.home.blog/37](https://wordpress.com/post/dipghosh.home.blog/37)
+- [Simple Javascript Vouchar](https://wordpress.com/post/dipghosh.home.blog/37)
 
 <!-- BLOG-POST-LIST:END -->
 
