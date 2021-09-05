@@ -1,6 +1,4 @@
 
-
-[![Visits Badge](https://www.instagram.com/web/friendships/:id/follow/)](https://www.facebook.com/ghoshdip638/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/dipghosh638)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dip-ghosh/)
 
@@ -29,8 +27,8 @@ Want to know more about me? [Check out my portfolio.](https://wordpress.com/home
 
 <br>
 
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Dip-Ghosh/Repository-Pattern-Project">
+  <img align="center" style="margin:0.5rem" src="https://github.com/Dip-Ghosh/Repository-Pattern-Project" />
 </a>
 
 <br>
