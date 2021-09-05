@@ -13,18 +13,16 @@ I’m Dip, a  full-stack engineer, creative coder and self-proclaimed designer w
 
 ## 📌 Pinned Repositories
 
-<br>
-
 <a href="https://github.com/Dip-Ghosh/Repository-Pattern-Project">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Repository-Pattern-Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
+<a href="https://github.com/Dip-Ghosh/Partner-Project">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Partner-Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
 <a href="https://github.com/Dip-Ghosh/Repository-service-pattern">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Repository-service-pattern&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
-
 
 <a href="https://github.com/Dip-Ghosh/teams-clone-engine-io">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=teams-clone-engine-io&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -34,7 +32,11 @@ I’m Dip, a  full-stack engineer, creative coder and self-proclaimed designer w
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Vue-practice-crud&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<br>
+<a href="https://github.com/Dip-Ghosh/Social-media">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Social-media&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+
 <br>
 
 ## &#x1f4c8; GitHub Stats
