@@ -1,26 +1,26 @@
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
+[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https://wordpress.com/home/dipghosh.home.blog)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/dipghosh638)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dip-ghosh/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
+
 
 Hey there 👋
 
-I’m Braydon, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I’m Dip, a  full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end and Backend development. I make it my mission to translate user-focused demand intoperfect websites or applications that run blazing fast.
 
-Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
+Want to know more about me? [Check out my portfolio.](https://wordpress.com/home/dipghosh.home.blog)
 
 ## 📝 Latest Blog Posts
 
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Use Named Exports over Default Exports in JavaScript](https://braydoncoyer.dev/blog/use-named-exports-over-default-exports-in-javascript/)
-- [The Gumball Machine: How To Quickly Identify Unit Test Cases](https://braydoncoyer.dev/blog/the-gumball-machine-how-to-quickly-identify-unit-test-cases/)
-- [How to Use the TailwindCSS Typography Plugin](https://braydoncoyer.dev/blog/how-to-use-the-tailwindcss-typography-plugin/)
-- [Hold Up - What Are JavaScript Generators?](https://braydoncoyer.dev/blog/hold-up-what-are-javascript-generators/)
-- [Technical Interview Preparation and Tips To Consider](https://braydoncoyer.dev/blog/technical-interview-preparation-and-tips-to-consider/)
+- [Git ,a simple guide  for  version control system ,no deep shit.](https://wordpress.com/post/dipghosh.home.blog/44)
+- [Writing Maintainable Code using SOLID Design Principles Explained in Laravel(Interface Segregation Principle)](https://wordpress.com/post/dipghosh.home.blog/86)
+- [Writing Maintainable Code using SOLID Design Principles Explained in Laravel(Single Responsibility Principle)](https://wordpress.com/post/dipghosh.home.blog/66)
+- [https://wordpress.com/post/dipghosh.home.blog/37](https://wordpress.com/post/dipghosh.home.blog/37)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
