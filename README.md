@@ -2,7 +2,7 @@
 
 <!--
 **Dip-Ghosh/Dip-Ghosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
