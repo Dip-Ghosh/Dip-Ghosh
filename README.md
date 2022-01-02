@@ -17,13 +17,11 @@ I’m Dip, a  full-stack engineer, creative coder and self-proclaimed designer w
 
 ## 🔥 GitHub Streak
 
-<p align="left" >
+<p align="center" >
   <a href="https://github.com/Dip-Ghosh/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dip's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dip-Ghosh&theme=solarized-dark&hide_border=true"/>
   </a>
   
-</p>
-<p align="right" >
 <a href="https://github.com/Dip-Ghosh">
   <img align="left" style="margin:0.5rem" src="code.gif" width="500" height="320" style="max-width: 100%;" />
 </a>
