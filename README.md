@@ -15,7 +15,7 @@
 
 ### Hey there 👋
 
-- This is Dip from Bangladesh, a Full-stack engineer, creative coder and self-proclaimed    designer who specializes in front-end and Backend development. I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+## This is Dip from Bangladesh, Full-stack engineer, creative coder  who specializes in front-end and Backend development.I am also an open-source enthusiast and maintainer. 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: 
    - Contribute more to Open Source projects.
@@ -27,7 +27,7 @@
 - ⚡ Fun fact: I love to travel and take photos of nature.
 - 💼 Any freelance work? do reach, [email](mailto:dipghosh638@gmail.com)
 - 💬 Ask me about anything, I am happy to help
- <img align="left" style="margin:0.5rem" src="code.gif" width="500" height="320" style="max-width: 100%;" />
+ <img align="right" style="margin:0.5rem" src="code.gif" width="500" height="320" style="max-width: 100%;" />
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Dip-Ghosh">
