@@ -16,7 +16,7 @@
 ## Hey there 👋
 <br/>
 - This is Dip from Bangladesh
-- Full-stack engineer, creative coder  who specializes in front-end and Backend development.
+- Full-stack engineer, creative coder 
 - I am also an open-source enthusiast and maintainer.
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: 
