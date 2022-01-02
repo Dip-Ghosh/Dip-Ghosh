@@ -9,7 +9,7 @@
   <img align="left" alt="Dip's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/adiorbachin/">
-  <img align="left" alt="Dip | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+  <img align="left" alt="Dip | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[instagram]
 </a>
 <br>
 Hey there 👋
