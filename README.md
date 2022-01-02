@@ -13,8 +13,8 @@
 </a>
 <br/>
 
-## Hey there 👋
-<br/>
+### Hey there 👋
+
 - This is Dip from Bangladesh
 - Full-stack engineer, creative coder 
 - I am also an open-source enthusiast and maintainer.
