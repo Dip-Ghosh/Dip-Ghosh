@@ -14,7 +14,7 @@
 <br/>
 
 ## Hey there 👋
-
+<br/>
 - This is Dip from Bangladesh
 - Full-stack engineer, creative coder  who specializes in front-end and Backend development.
 - I am also an open-source enthusiast and maintainer.
@@ -30,6 +30,8 @@
 - 💬 Ask me about anything, I am happy to help
 
  <img align="right" style="margin:0.5rem" src="code.gif" width="300" height="300" style="max-width: 100%;" />
+
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Dip-Ghosh">
