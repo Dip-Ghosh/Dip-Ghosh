@@ -12,10 +12,22 @@
   <img align="left" alt="Dip | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-/Hey there 👋
 
-I’m Dip, a  full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end and Backend development. I make it my mission to translate user-focused demand into perfect websites or applications that run blazing fast.
+### Hey there 👋
 
+- This is Dip from Bangladesh, a Full-stack engineer, creative coder and self-proclaimed    designer who specializes in front-end and Backend development. I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2022 Goals: 
+   - Contribute more to Open Source projects.
+   - Learning Docker & CI/CD
+   - Micro Service Architecture
+   - System Design
+   - Design Patterns
+
+- ⚡ Fun fact: I love to travel and take photos of nature.
+- 💼 Any freelance work? do reach, [email](mailto:dipghosh638@gmail.com)
+- 💬 Ask me about anything, I am happy to help
+ <img align="left" style="margin:0.5rem" src="code.gif" width="500" height="320" style="max-width: 100%;" />
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Dip-Ghosh">
@@ -33,9 +45,6 @@ I’m Dip, a  full-stack engineer, creative coder and self-proclaimed designer w
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dip's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dip-Ghosh&theme=solarized-dark&hide_border=true"/>
   </a>
   
-<a href="https://github.com/Dip-Ghosh">
-  <img align="left" style="margin:0.5rem" src="code.gif" width="500" height="320" style="max-width: 100%;" />
-</a>
 </p>
 
 
