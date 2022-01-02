@@ -28,8 +28,8 @@
 - ⚡ Fun fact: I love to travel and take photos of nature.
 - 💼 Any freelance work? do reach, [email](mailto:dipghosh638@gmail.com)
 - 💬 Ask me about anything, I am happy to help
-<p align="right" style="margin-top:-655px">
- <img  src="code.gif" width="300" height="280"/>
+<p align="right">
+ <img  src="code.gif" width="300" height="280" style="margin-top:-655px"/>
 </p>
 
 ## &#x1f4c8; GitHub Stats
