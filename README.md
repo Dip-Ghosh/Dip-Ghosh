@@ -24,7 +24,7 @@
 - ⚡ Fun fact: I love to travel and take photos of nature.
 - 💼 Any freelance work? do reach, [email](mailto:dipghosh638@gmail.com)
 - 💬 Ask me about anything, I am happy to help
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats 🔥 GitHub Streak
 
 <a href="https://github.com/Dip-Ghosh">
   <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dip-Ghosh&show_icons=true&line_height=27&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -34,7 +34,7 @@
   <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Dip-Ghosh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Dip's GitHub Stats" />
 </a>
 
-### 🔥 GitHub Streak
+
 
   <a href="https://github.com/Dip-Ghosh/github-readme-streak-stats">
     <img align="center" width="100%" height="100%" style="margin:0.5rem" alt="Dip's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dip-Ghosh&theme=solarized-dark&hide_border=true"/>
