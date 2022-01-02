@@ -16,7 +16,7 @@ I’m Dip, a  full-stack engineer, creative coder and self-proclaimed designer w
 </a>
 
 <a href="https://github.com/Dip-Ghosh">
-  <img align="center" style="margin:0.5rem" src="code.gif" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="code.gif" width="500" height="320" style="max-width: 100%;" />
 </a>
 ## 📌 Pinned Repositories
 
