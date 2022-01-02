@@ -13,8 +13,7 @@
 </a>
 <br/>
 
-## Hey there 👋
-<br/>
+### Hey there 👋
 - This is Dip from Bangladesh
 - Full-stack engineer, creative coder 
 - I am also an open-source enthusiast and maintainer.
@@ -29,7 +28,7 @@
 - 💼 Any freelance work? do reach, [email](mailto:dipghosh638@gmail.com)
 - 💬 Ask me about anything, I am happy to help
 
- <img align="right" style="margin:0.5rem" src="code.gif" width="300" height="300" style="max-width: 100%;" />
+ <img align="right"  src="code.gif" width="500" height="280" style="margin-top:355px" />
 
 
 ## &#x1f4c8; GitHub Stats
