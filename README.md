@@ -4,7 +4,9 @@
 Hey there 👋
 
 I’m Dip, a  full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end and Backend development. I make it my mission to translate user-focused demand into perfect websites or applications that run blazing fast.
-
+<a href="https://github.com/Dip-Ghosh">
+  <img align="left" style="margin:0.5rem" src="code.gif" width="500" height="320" style="max-width: 100%;" />
+</a>
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Dip-Ghosh">
@@ -15,10 +17,18 @@ I’m Dip, a  full-stack engineer, creative coder and self-proclaimed designer w
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Dip-Ghosh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
 
-<a href="https://github.com/Dip-Ghosh">
-  <img align="center" style="margin:0.5rem" src="code.gif" width="500" height="320" style="max-width: 100%;" />
-</a>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dip-Ghosh&theme=solarized-dark&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+## 🔥 GitHub Streak
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dip's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dip-Ghosh&theme=solarized-dark&date_format=n%2Fj%5B%2FY%5D&hide_border=true"/>
+  </a>
+  
+</p>
+
+
+
+
 ## 📌 Pinned Repositories
 
 <a href="https://github.com/Dip-Ghosh/Algorithm.git">
