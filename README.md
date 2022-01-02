@@ -37,7 +37,7 @@
 ## 🔥 GitHub Streak
 
   <a href="https://github.com/Dip-Ghosh/github-readme-streak-stats">
-    <img align="center" width="100%" style="margin:1.0rem" alt="Dip's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dip-Ghosh&theme=solarized-dark&hide_border=true"/>
+    <img align="center" width="100%" style="margin:0.75rem" alt="Dip's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dip-Ghosh&theme=solarized-dark&hide_border=true"/>
   </a>
 
 ## 📌 Pinned Repositories
