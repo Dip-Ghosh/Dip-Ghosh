@@ -9,10 +9,10 @@
   <img align="left" alt="Dip's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/adiorbachin/">
-  <img align="left" alt="Dip | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[instagram]
+  <img align="left" alt="Dip | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<br>
-Hey there 👋
+
+/Hey there 👋
 
 I’m Dip, a  full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end and Backend development. I make it my mission to translate user-focused demand into perfect websites or applications that run blazing fast.
 
