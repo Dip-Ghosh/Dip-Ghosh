@@ -14,7 +14,10 @@
 <br/>
 
 ### Hey there 👋
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1abf09906c58bb45581d3ac3c155876494c1842c
 - This is Dip from Bangladesh
 - Full-stack engineer, creative coder 
 - I am also an open-source enthusiast and maintainer.
@@ -29,9 +32,9 @@
 - 💼 Any freelance work? do reach, [email](mailto:dipghosh638@gmail.com)
 - 💬 Ask me about anything, I am happy to help
 
- <img align="right" style="margin:0.5rem" src="code.gif" width="300" height="300" style="max-width: 100%;" />
+ <img align="right"  src="code.gif" width="500" height="280" style="margin-top:355px" />
 
-
+<br/>
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Dip-Ghosh">
@@ -42,6 +45,7 @@
   <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Dip-Ghosh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Dip's GitHub Stats" />
 </a>
 
+<br/>
 ## 🔥 GitHub Streak
 
 <p align="center" >
