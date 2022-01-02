@@ -29,9 +29,9 @@
 - 💼 Any freelance work? do reach, [email](mailto:dipghosh638@gmail.com)
 - 💬 Ask me about anything, I am happy to help
 <p align="right" >
- <img  src="code.gif" width="500" height="280" style="margin-top:355px" />
+ <img  src="code.gif" width="400" height="280" style="margin-top:355px" />
 </p>
-<br/>
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Dip-Ghosh">
