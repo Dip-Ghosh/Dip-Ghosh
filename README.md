@@ -9,7 +9,7 @@
   <img align="left" alt="Dip's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/adiorbachin/">
-  <img align="left" alt="Dip's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+  <img align="left" alt="Dip's Spotify" width="22px" src="https://cdn.cdnlogo.com/logos/i/44/instagram-icon.svg" />
 </a>
 <!-- 
 [<img align="left" alt="Dip | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]()
