@@ -18,6 +18,7 @@ I’m Dip, a  full-stack engineer, creative coder and self-proclaimed designer w
 <a href="https://github.com/Dip-Ghosh">
   <img align="center" style="margin:0.5rem" src="code.gif" width="500" height="320" style="max-width: 100%;" />
 </a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dip-Ghosh&theme=solarized-dark&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 ## 📌 Pinned Repositories
 
 <a href="https://github.com/Dip-Ghosh/Algorithm.git">
