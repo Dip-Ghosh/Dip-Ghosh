@@ -13,11 +13,9 @@
 </a>
 <br/>
 
-### Hey there 👋
+## Hey there 👋
 
-- This is Dip from Bangladesh
-- Full-stack engineer, creative coder 
-- I am also an open-source enthusiast and maintainer.
+- This is Dip from Bangladesh,Full-stack engineer, creative coder and am also an open-source enthusiast and maintainer.
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: 
    - Contribute more to Open Source projects
