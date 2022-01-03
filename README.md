@@ -66,7 +66,7 @@
 <a href="https://github.com/Dip-Ghosh/Vue-practice-crud">
   <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Vue-practice-crud&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
+<br/>
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-CodeIgniter-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
