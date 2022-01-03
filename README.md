@@ -36,7 +36,7 @@
 
 
 
-  <a href="https://github.com/Dip-Ghosh/github-readme-streak-stats">
+  <a href="http://github-readme-streak-stats.herokuapp.com/demo/?user=Dip-Ghosh&theme=solarized-dark&hide_border=true&date_format=M+j%5B%2C+Y%5D&properties=background">
     <img align="center" width="100%" height="100%" style="margin:0.5rem" alt="Dip's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dip-Ghosh&theme=solarized-dark&hide_border=true"/>
   </a>
 
