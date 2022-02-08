@@ -1,73 +1,141 @@
-
-<a href="https://www.facebook.com/ghoshdip638/">
+<table>
+<tr >
+<td valign="center">
+    <a href="https://www.facebook.com/ghoshdip638/">
   <img align="left" alt="Dip | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-<a href="https://twitter.com/dipghosh638">
+</td>
+<td valign="center">
+    <a href="https://twitter.com/dipghosh638">
   <img align="left" alt="Dip's | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+</td>
+<td valign="center">
 <a href="https://www.linkedin.com/in/dip-ghosh/">
   <img align="left" alt="Dip's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+</td>
+<td valign="center">
+<a href="https://github.com/Dip-Ghosh/">
+  <img align="left" alt="Dip's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+</a>
+</td>
+<td valign="center">
 <a href="https://www.instagram.com/adiorbachin/">
   <img align="left" alt="Dip | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+</td>
+</tr>
+</table>
 
 ## Hey there 👋
-- This is Dip from Bangladesh,Full-stack engineer, creative coder and am also an open-source enthusiast and maintainer.
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: 
-   - Contribute more to Open Source projects
-   - Learning Docker & CI/CD
-   - Micro Service Architecture
-   - System Design
-   - Design Patterns
-- ⚡ Fun fact: I love to travel and take photos of nature.
-- 💼 Any freelance work? do reach, [email](mailto:dipghosh638@gmail.com)
-- 💬 Ask me about anything, I am happy to help
+
+<table>
+  <tr>
+    <td valign="center">
+    ✨This is Dip from Bangladesh,Full-stack engineer, creative coder and am also an open-source enthusiast and maintainer.
+
+   🎓 I am currently pursuing my **Master's in Computer Science And Engineering**.
+
+  🌱 I’m currently learning everything🤣
+
+  **🎯 2022 Goals:**
+
+     🔥 Contribute more to Open Source projects as much as possible.
+     🔥 Become a better developer.
+     🌱 Learning Docker & CI/CD & Kubernate for the future.
+     🌱 Micro Service Architecture
+     ✨ System Design
+     ✨ Design Patterns
+   **⚡ Fun fact:**
+        I love to travel and take photos of nature.
+
+    💼 Any freelance work? do reach, [email](mailto:dipghosh638@gmail.com)
+    📍 I am currently living in Dhaka, Bangladesh.
+    💬 Ask me about anything, I am happy to help
+
+
+<td>
+<a href="https://app.daily.dev/AdiOrbachin"><img src="https://api.daily.dev/devcards/050e1fb195f740f896374e7e2ab1117d.png?r=mfg" width="400" alt="Dip Ghosh's Dev Card"/></a>
+</td>
+
+  </tr>
+  </table>
+
+
+
+
+# Contributions
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dip-Ghosh&theme=dracula&hide_border=true)
+
+
+
 ## &#x1f4c8; GitHub Stats 🔥 GitHub Streak
 
-<a href="https://github.com/Dip-Ghosh">
-  <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dip-Ghosh&show_icons=true&line_height=27&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<table>
+  <tr>
+    <td>
+        <a href="https://github.com/Dip-Ghosh"  >
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dip-Ghosh&show_icons=true&line_height=27&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+    </td>
+    <td>
+     <a href="https://github.com/Dip-Ghosh">
+          <img  width="100%" style="align-content: flex-start"  src="https://github-readme-stats.vercel.app/api?username=Dip-Ghosh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Dip's GitHub Stats" />
+    </a>
+    </td>
+    <td>
+    <a href="http://github-readme-streak-stats.herokuapp.com/demo/?user=Dip-Ghosh&theme=solarized-dark&hide_border=true&date_format=M+j%5B%2C+Y%5D&properties=background">
+           <img valign="center" width="100%" style="margin:0.5rem" alt="Dip's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dip-Ghosh&theme=solarized-dark&hide_border=true"/>
+     </a>
+    </td>
+  </tr>
+ </table>
 
-<a href="https://github.com/Dip-Ghosh">
-  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Dip-Ghosh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Dip's GitHub Stats" />
-</a>
 
+## &#x1f4c8;📌 Pinned Repositories
 
-
-  <a href="http://github-readme-streak-stats.herokuapp.com/demo/?user=Dip-Ghosh&theme=solarized-dark&hide_border=true&date_format=M+j%5B%2C+Y%5D&properties=background">
-    <img align="center" width="100%" height="100%" style="margin:0.5rem" alt="Dip's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dip-Ghosh&theme=solarized-dark&hide_border=true"/>
-  </a>
-
-## 📌 Pinned Repositories
-
+<table>
+  <tr>
+     <td>
 <a href="https://github.com/Dip-Ghosh/Algorithm.git">
-  <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Algorithm&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Algorithm&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
+</td>
+     <td>
 <a href="https://github.com/Dip-Ghosh/Repository-Pattern-Project">
-  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Repository-Pattern-Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Repository-Pattern-Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
+</td>
+     <td>
 <a href="https://github.com/Dip-Ghosh/Social-media">
-  <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Social-media&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Social-media&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
-
+</td>
+  </tr>
+  <tr>
+<td>
 <a href="https://github.com/Dip-Ghosh/Interface-segregation">
-  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Interface-segregation&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Interface-segregation&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
+</td>
+<td>
 <a href="https://github.com/Dip-Ghosh/teams-clone-engine-io">
-  <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=teams-clone-engine-io&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=teams-clone-engine-io&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
+</td>
+<td>
 <a href="https://github.com/Dip-Ghosh/Vue-practice-crud">
-  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Vue-practice-crud&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Vue-practice-crud&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+</td>
+</tr>
+ </table>
+
+
 
 ## 💼 Skills
+
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-CodeIgniter-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
@@ -81,8 +149,8 @@
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
 <br>
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
- ![](https://img.shields.io/badge/Tools-Navicate-informational?style=flat&logo=Clubhouse&logoColor=white&color=4AB197)
-  ![](https://img.shields.io/badge/Tools-latex-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Navicate-informational?style=flat&logo=Clubhouse&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-latex-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-CPanel-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-SonarCloud-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197)
@@ -96,7 +164,6 @@
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Confluence-informational?style=flat&logo=Clubhouse&logoColor=white&color=4AB197)
-
 
 ## 📝 Latest Blog Posts
 
