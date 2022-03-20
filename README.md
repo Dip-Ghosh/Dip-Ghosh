@@ -7,7 +7,7 @@
 </td>
 <td valign="center">
     <a href="https://twitter.com/dipghosh638">
-  <img align="left" alt="Dip's | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Dip's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 </td>
 <td valign="center">
