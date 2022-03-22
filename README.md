@@ -2,7 +2,7 @@
 <tr >
 <td valign="center">
     <a href="https://www.facebook.com/ghoshdip638/">
-  <img align="left" alt="Dip | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="left" alt="Dip's Facebook" width="22px" src="https://www.facebook.com/images/fb_icon_325x325.png" />
 </a>
 </td>
 <td valign="center">
