@@ -102,11 +102,17 @@
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Problem-solving&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 </td>
+       <td>
+<a href=" https://github.com/Dip-Ghosh/Job-portal">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Job-portal&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+</td>
      <td>
 <a href="https://github.com/Dip-Ghosh/Repository-Pattern-Project">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Repository-Pattern-Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 </td>
+     
      <td>
 <a href="https://github.com/Dip-Ghosh/Social-media">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Social-media&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
