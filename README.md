@@ -116,7 +116,7 @@
   <tr>
 <td>
 <a href="https://github.com/Dip-Ghosh/add-to-cart">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Ecommerce(Add-to-Cart)&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=add-to-cart&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 </td>
 <td>
