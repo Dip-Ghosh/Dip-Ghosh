@@ -96,40 +96,42 @@
 ## &#x1f4c8;📌 Pinned Repositories
 
 <table>
-  <tr>
-     <td>
-<a href="https://github.com/Dip-Ghosh/problem-solving">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Problem-solving&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-</td>
-       <td>
-<a href=" https://github.com/Dip-Ghosh/Job-portal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Job-portal&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+    <tr>
+         <td>
+            <a href=" https://github.com/Dip-Ghosh/Job-portal">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Job-portal&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+            </a>
 </td>
      <td>
-<a href="https://github.com/Dip-Ghosh/Repository-Pattern-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Repository-Pattern-Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Dip-Ghosh/add-to-cart">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=add-to-cart&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 </td>
-     
-     <td>
+            <td>
 <a href="https://github.com/Dip-Ghosh/Social-media">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Social-media&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 </td>
   </tr>
   <tr>
-<td>
-<a href="https://github.com/Dip-Ghosh/add-to-cart">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=add-to-cart&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+      <td>
+<a href="https://github.com/Dip-Ghosh/problem-solving">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Problem-solving&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 </td>
-<td>
+ <td>
+<a href="https://github.com/Dip-Ghosh/Repository-Pattern-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Repository-Pattern-Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+</td>
+   <td>
 <a href="https://github.com/Dip-Ghosh/teams-clone-engine-io">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=teams-clone-engine-io&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-</td>
+</td>  
+ 
+  </tr>
+  <tr>
 <td>
 <a href="https://github.com/Dip-Ghosh/Vue-practice-crud">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Vue-practice-crud&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
