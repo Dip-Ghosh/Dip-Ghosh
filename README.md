@@ -35,11 +35,11 @@
     <td valign="center">
     ✨This is Dip from Bangladesh,Full-stack engineer, creative coder and am also an open-source enthusiast and maintainer.
 
-   🎓 I am currently pursuing my **Master's in Computer Science And Engineering**.
+🎓 I am currently pursuing my **Master's in Computer Science And Engineering**.
 
-  🌱 I’m currently learning everything🤣
+🌱 I’m currently learning everything🤣
 
-  **🎯 2022 Goals:**
+**🎯 2022 Goals:**
 
      🔥 Contribute more to Open Source projects as much as possible.
      🔥 Become a better developer.
@@ -47,13 +47,13 @@
      🌱 Micro Service Architecture
      ✨ System Design
      ✨ Design Patterns
-   **⚡ Fun fact:**
-        I love to travel and take photos of nature.
+
+**⚡ Fun fact:**
+I love to travel and take photos of nature.
 
     💼 Any freelance work? do reach, [email](mailto:dipghosh638@gmail.com)
     📍 I am currently living in Dhaka, Bangladesh.
     💬 Ask me about anything, I am happy to help
-
 
 <td>
 <a href="https://app.daily.dev/AdiOrbachin"><img src="https://api.daily.dev/devcards/050e1fb195f740f896374e7e2ab1117d.png?r=mfg" width="400" alt="Dip Ghosh's Dev Card"/></a>
@@ -62,13 +62,9 @@
   </tr>
   </table>
 
-
-
-
 # Contributions
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dip-Ghosh&theme=dracula&hide_border=true)
-
-
 
 ## &#x1f4c8; GitHub Stats 🔥 GitHub Streak
 
@@ -92,55 +88,64 @@
   </tr>
  </table>
 
-
 ## &#x1f4c8;📌 Pinned Repositories
 
 <table>
     <tr>
-         <td>
+<td>
+        <a href="https://github.com/Dip-Ghosh/Solid-Design-Principle">
+          <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Solid-Design-Principle&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+        </a>
+</td>
+
+<td>
+        <a href="https://github.com/Dip-Ghosh/Design-Pattern">
+          <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Design-Pattern&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+        </a>
+</td>
+<td>
             <a href=" https://github.com/Dip-Ghosh/Job-portal">
               <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Job-portal&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
             </a>
 </td>
-     <td>
-<a href="https://github.com/Dip-Ghosh/add-to-cart">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=add-to-cart&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-</td>
-            <td>
-<a href="https://github.com/Dip-Ghosh/Social-media">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Social-media&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-</td>
-  </tr>
-  <tr>
-      <td>
-<a href="https://github.com/Dip-Ghosh/problem-solving">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Problem-solving&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-</td>
- <td>
-<a href="https://github.com/Dip-Ghosh/Repository-Pattern-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Repository-Pattern-Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-</td>
-   <td>
-<a href="https://github.com/Dip-Ghosh/teams-clone-engine-io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=teams-clone-engine-io&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-</td>  
- 
-  </tr>
-  <tr>
+</tr>
+<tr>
 <td>
-<a href="https://github.com/Dip-Ghosh/Vue-practice-crud">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Vue-practice-crud&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+        <a href="https://github.com/Dip-Ghosh/add-to-cart">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=add-to-cart&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+        </a>
+</td>
+<td>
+        <a href="https://github.com/Dip-Ghosh/Social-media">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Social-media&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+        </a>
+</td>
+
+<td>
+        <a href="https://github.com/Dip-Ghosh/problem-solving">
+          <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Problem-solving&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+        </a>
+
+</td>
+  </tr>
+  <tr>
+ <td>
+        <a href="https://github.com/Dip-Ghosh/Repository-Pattern-Project">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Repository-Pattern-Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+        </a>
+</td>
+<td>
+        <a href="https://github.com/Dip-Ghosh/teams-clone-engine-io">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=teams-clone-engine-io&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+        </a>
+</td>
+<td>
+        <a href="https://github.com/Dip-Ghosh/Vue-practice-crud">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Vue-practice-crud&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+        </a>
 </td>
 </tr>
  </table>
-
-
 
 ## 💼 Skills
 
