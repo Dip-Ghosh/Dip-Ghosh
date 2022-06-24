@@ -1,4 +1,4 @@
-## &#x1f4c8; 🔥 GitHub Streak &  GitHub Stats
+
 <table>
   <tr>
 <td valign="center"  width="26.6%" style="white-space: nowrap; ">
