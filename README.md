@@ -151,12 +151,7 @@ I love to travel and take photos of nature.
 
 </td>
 <td>
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/Dip-Ghosh/Dip-Ghosh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/Dip-Ghosh/Dip-Ghosh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-![](https://github.com/Dip-Ghosh/Dip-Ghosh/blob/output/github-contribution-grid-snake.gif)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Dip-Ghosh/Dip-Ghosh/output/github-contribution-grid-snake.gif)
 </td>
 </tr>
  </table>
