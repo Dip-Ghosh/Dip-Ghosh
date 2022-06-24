@@ -150,6 +150,9 @@ I love to travel and take photos of nature.
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dip-Ghosh&theme=dracula&hide_border=true)
 
 </td>
+<td>
+![snake gif](https://github.com/Dip-Ghosh/Dip-Ghosh/blob/output/github-contribution-grid-snake.gif)
+</td>
 </tr>
  </table>
 
