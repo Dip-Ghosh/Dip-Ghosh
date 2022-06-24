@@ -1,3 +1,50 @@
+## &#x1f4c8; 🔥 GitHub Streak &  GitHub Stats
+<table>
+  <tr>
+<td valign="center"  width="26.6%" style="white-space: nowrap; ">
+<a href="https://github.com/Dip-Ghosh"  >
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dip-Ghosh&show_icons=true&line_height=27&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+</td>
+<td  width="38.3%" style="white-space: nowrap; ">
+     <a href="https://github.com/Dip-Ghosh">
+          <img  width="100%" style="align-content: flex-start;display:block"  src="https://github-readme-stats.vercel.app/api?username=Dip-Ghosh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Dip's GitHub Stats" />
+    </a>
+</td>
+<td  width="38.3%" style="white-space: nowrap; ">
+    <a href="http://github-readme-streak-stats.herokuapp.com/demo/?user=Dip-Ghosh&theme=solarized-dark&hide_border=true&date_format=M+j%5B%2C+Y%5D&properties=background">
+           <img valign="center"  width="100%" style="margin:0.5rem;display:block" alt="Dip's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dip-Ghosh&theme=solarized-dark&hide_border=true"/>
+     </a>
+</td>
+  </tr>
+ </table>
+
+## Hey there 👋
+
+<table>
+  <tr>
+    <td valign="center">
+    ✨This is Dip from Bangladesh,Full-stack engineer, creative coder and am also an open-source enthusiast and maintainer.
+
+🎓 I am currently pursuing my **Master's in Computer Science And Engineering**.
+
+🌱 I’m currently learning everything🤣
+
+**🎯 2022 Goals:**
+
+     🔥 Contribute more to Open Source projects as much as possible.
+     🔥 Become a better developer.
+     🌱 Learning Docker & CI/CD & Kubernate for the future.
+     🌱 Micro Service Architecture
+     ✨ System Design
+     ✨ Design Patterns
+
+**⚡ Fun fact:**
+I love to travel and take photos of nature.
+
+    💼 Any freelance work? do reach, Mailto : dipghosh638@gmail.com
+    📍 I am currently living in Dhaka, Bangladesh.
+    💬 Ask me about anything, I am happy to help.
 <table>
 <tr >
 <td valign="center">
@@ -28,56 +75,12 @@
 </tr>
 </table>
 
-## Hey there 👋
-
-<table>
-  <tr>
-    <td valign="center">
-    ✨This is Dip from Bangladesh,Full-stack engineer, creative coder and am also an open-source enthusiast and maintainer.
-
-🎓 I am currently pursuing my **Master's in Computer Science And Engineering**.
-
-🌱 I’m currently learning everything🤣
-
-**🎯 2022 Goals:**
-
-     🔥 Contribute more to Open Source projects as much as possible.
-     🔥 Become a better developer.
-     🌱 Learning Docker & CI/CD & Kubernate for the future.
-     🌱 Micro Service Architecture
-     ✨ System Design
-     ✨ Design Patterns
-
-**⚡ Fun fact:**
-I love to travel and take photos of nature.
-
-    💼 Any freelance work? do reach, Mailto : dipghosh638@gmail.com
-    📍 I am currently living in Dhaka, Bangladesh.
-    💬 Ask me about anything, I am happy to help.
-
 <td>
 <a href="https://app.daily.dev/AdiOrbachin"><img src="https://api.daily.dev/devcards/050e1fb195f740f896374e7e2ab1117d.png?r=mfg" width="400" alt="Dip Ghosh's Dev Card"/></a>
 </td>
 
-  </tr>
-  </table>
-
-## &#x1f4c8; 🔥 GitHub Streak
-<table>
-  <tr>
-
-<td>
-     <a href="https://github.com/Dip-Ghosh">
-          <img  width="100%" style="align-content: flex-start;display:block"  src="https://github-readme-stats.vercel.app/api?username=Dip-Ghosh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Dip's GitHub Stats" />
-    </a>
-</td>
-<td>
-    <a href="http://github-readme-streak-stats.herokuapp.com/demo/?user=Dip-Ghosh&theme=solarized-dark&hide_border=true&date_format=M+j%5B%2C+Y%5D&properties=background">
-           <img valign="center"  width="100%" style="margin:0.5rem;display:block" alt="Dip's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dip-Ghosh&theme=solarized-dark&hide_border=true"/>
-     </a>
-</td>
-  </tr>
- </table>
+</tr>
+</table>
 
 ## &#x1f4c8;📌 Pinned Repositories
 <table cellspacing="0" style="border-collapse: collapse;border-spacing: 0;">
@@ -137,25 +140,22 @@ I love to travel and take photos of nature.
 </tr>
  </table>
 
-## &#x1f4c8; Contributions &  GitHub Stats
+## &#x1f4c8; Contributions 
  <table cellspacing="0">
 <tr>
-<td valign="center" width="29%" style="white-space: nowrap; ">
-<a href="https://github.com/Dip-Ghosh"  >
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dip-Ghosh&show_icons=true&line_height=27&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-</td>
-<td valign="center" width="70%"  align="center" style="white-space: nowrap; ">
+
+<td valign="center" width="50%"  align="center" style="white-space: nowrap; ">
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dip-Ghosh&theme=dracula&hide_border=true)
 
 </td>
-<td>
+<td valign="center" width="50%"  align="center" style="white-space: nowrap; ">
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Dip-Ghosh/Dip-Ghosh/output/github-contribution-grid-snake.gif)
+
 </td>
 </tr>
  </table>
-
 
 
 ## 💼 Skills
