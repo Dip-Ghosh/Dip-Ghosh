@@ -51,9 +51,9 @@
 **⚡ Fun fact:**
 I love to travel and take photos of nature.
 
-    💼 Any freelance work? do reach, [email](mailto:dipghosh638@gmail.com)
+    💼 Any freelance work? do reach, Mailto : dipghosh638@gmail.com
     📍 I am currently living in Dhaka, Bangladesh.
-    💬 Ask me about anything, I am happy to help
+    💬 Ask me about anything, I am happy to help.
 
 <td>
 <a href="https://app.daily.dev/AdiOrbachin"><img src="https://api.daily.dev/devcards/050e1fb195f740f896374e7e2ab1117d.png?r=mfg" width="400" alt="Dip Ghosh's Dev Card"/></a>
@@ -62,35 +62,25 @@ I love to travel and take photos of nature.
   </tr>
   </table>
 
-# Contributions
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dip-Ghosh&theme=dracula&hide_border=true)
-
-## &#x1f4c8; GitHub Stats 🔥 GitHub Streak
-
+## &#x1f4c8; 🔥 GitHub Streak
 <table>
   <tr>
-    <td>
-        <a href="https://github.com/Dip-Ghosh"  >
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dip-Ghosh&show_icons=true&line_height=27&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-    </td>
-    <td>
+
+<td>
      <a href="https://github.com/Dip-Ghosh">
-          <img  width="100%" style="align-content: flex-start"  src="https://github-readme-stats.vercel.app/api?username=Dip-Ghosh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Dip's GitHub Stats" />
+          <img  width="100%" style="align-content: flex-start;display:block"  src="https://github-readme-stats.vercel.app/api?username=Dip-Ghosh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Dip's GitHub Stats" />
     </a>
-    </td>
-    <td>
+</td>
+<td>
     <a href="http://github-readme-streak-stats.herokuapp.com/demo/?user=Dip-Ghosh&theme=solarized-dark&hide_border=true&date_format=M+j%5B%2C+Y%5D&properties=background">
-           <img valign="center" width="100%" style="margin:0.5rem" alt="Dip's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dip-Ghosh&theme=solarized-dark&hide_border=true"/>
+           <img valign="center"  width="100%" style="margin:0.5rem;display:block" alt="Dip's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dip-Ghosh&theme=solarized-dark&hide_border=true"/>
      </a>
-    </td>
+</td>
   </tr>
  </table>
 
 ## &#x1f4c8;📌 Pinned Repositories
-
-<table>
+<table cellspacing="0" style="border-collapse: collapse;border-spacing: 0;">
     <tr>
 <td>
         <a href="https://github.com/Dip-Ghosh/Solid-Design-Principle">
@@ -146,6 +136,24 @@ I love to travel and take photos of nature.
 </td>
 </tr>
  </table>
+
+# Contributions &  GitHub Stats
+ <table cellspacing="0">
+<tr>
+<td valign="center" width="29%" style="white-space: nowrap; ">
+<a href="https://github.com/Dip-Ghosh"  >
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dip-Ghosh&show_icons=true&line_height=27&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+</td>
+<td valign="center" width="70%"  align="center" style="white-space: nowrap; ">
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dip-Ghosh&theme=dracula&hide_border=true)
+
+</td>
+</tr>
+ </table>
+
+
 
 ## 💼 Skills
 
