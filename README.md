@@ -151,7 +151,7 @@ I love to travel and take photos of nature.
 
 </td>
 <td>
-![snake gif](https://github.com/Dip-Ghosh/Dip-Ghosh/blob/output/github-contribution-grid-snake.gif)
+![](https://github.com/Dip-Ghosh/Dip-Ghosh/blob/output/github-contribution-grid-snake.gif)
 </td>
 </tr>
  </table>
