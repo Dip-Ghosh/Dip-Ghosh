@@ -137,7 +137,7 @@ I love to travel and take photos of nature.
 </tr>
  </table>
 
-# Contributions &  GitHub Stats
+## &#x1f4c8; Contributions &  GitHub Stats
  <table cellspacing="0">
 <tr>
 <td valign="center" width="29%" style="white-space: nowrap; ">
