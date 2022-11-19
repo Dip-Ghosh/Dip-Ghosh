@@ -144,14 +144,9 @@ I love to travel and take photos of nature.
  <table cellspacing="0">
 <tr>
 
-<td valign="center" width="50%"  align="center" style="white-space: nowrap; ">
+<td valign="center" width="100%"  align="center" style="white-space: nowrap; ">
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dip-Ghosh&theme=dracula&hide_border=true)
-
-</td>
-<td valign="center" width="50%"  align="center" style="white-space: nowrap; ">
-
-![Snake animation](https://github.com/{{Dip-Ghosh}}/{{Dip-Ghosh}}/blob/output/github-contribution-grid-snake.svg)
 
 </td>
 </tr>
