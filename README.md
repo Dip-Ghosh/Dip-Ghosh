@@ -26,12 +26,16 @@
     <td valign="center">
     ✨This is Dip from Bangladesh,Full-stack engineer, creative coder and am also an open-source enthusiast and maintainer.
 
-🎓 I am currently pursuing my **Master's in Computer Science And Engineering**.
+🎓 I am currently concluded my **Master's in Computer Science And Engineering**.
 
 🌱 I’m currently learning everything🤣
 
-**🎯 2022 Goals:**
+**🎯 2023 Goals:**
 
+     🔥 Atleast one problem to solve and atleast a single commit daily for existing and new projects.
+     🔥 Target Atleast 300 Problems to solve from Leet Code, GeekForGeek, Hanker Rank.
+     🔥 Focus on Vue js, React js and Next js.
+     🔥 Improve the previous code with coding best practice.
      🔥 Contribute more to Open Source projects as much as possible.
      🔥 Become a better developer.
      🌱 Learning Docker & CI/CD & Kubernate for the future.
@@ -42,9 +46,10 @@
 **⚡ Fun fact:**
 I love to travel and take photos of nature.
 
-    💼 Any freelance work? do reach, Mailto : dipghosh638@gmail.com
+    💼 Any freelance work? do reach, Mail : dipghosh638@gmail.com Mobile : +8801744499902
     📍 I am currently living in Dhaka, Bangladesh.
     💬 Ask me about anything, I am happy to help.
+      
 <table>
 <tr >
 <td valign="center">
