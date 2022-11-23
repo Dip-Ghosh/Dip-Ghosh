@@ -1,56 +1,32 @@
 
 <table>
   <tr>
-<td valign="center"  width="26.6%" style="white-space: nowrap; ">
+<td valign="center"  width="25%" style="white-space: nowrap; ">
 <a href="https://github.com/Dip-Ghosh"  >
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dip-Ghosh&show_icons=true&line_height=27&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 </td>
-<td  width="38.3%" style="white-space: nowrap; ">
+<td  width="30%" style="white-space: nowrap; ">
      <a href="https://github.com/Dip-Ghosh">
           <img  width="100%" style="align-content: flex-start;display:block"  src="https://github-readme-stats.vercel.app/api?username=Dip-Ghosh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Dip's GitHub Stats" />
     </a>
 </td>
-<td  width="38.3%" style="white-space: nowrap; ">
+<td  width="30%" style="white-space: nowrap; ">
     <a href="http://github-readme-streak-stats.herokuapp.com/demo/?user=Dip-Ghosh&theme=solarized-dark&hide_border=true&date_format=M+j%5B%2C+Y%5D&properties=background">
-           <img valign="center"  width="100%" style="margin:0.5rem;display:block" alt="Dip's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dip-Ghosh&theme=solarized-dark&hide_border=true"/>
+           <img valign="center" width="100%" style="margin:0.5rem;display:block" alt="Dip's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dip-Ghosh&theme=solarized-dark&hide_border=true"/>
      </a>
+</td>
+    
+<td width="15%" style="white-space: nowrap; ">
+<a href="https://app.daily.dev/AdiOrbachin"><img src="https://api.daily.dev/devcards/050e1fb195f740f896374e7e2ab1117d.png?r=mfg" width="400" alt="Dip Ghosh's Dev Card"/></a>
 </td>
   </tr>
  </table>
 
-## Hey there 👋
+## Hey there 👋 
 
 <table>
-  <tr>
-    <td valign="center">
-    ✨This is Dip from Bangladesh,Full-stack engineer, creative coder and am also an open-source enthusiast and maintainer.
-
-🎓 I am currently concluded my **Master's in Computer Science And Engineering**.
-
-🌱 I’m currently learning everything🤣
-
-**🎯 2023 Goals:**
-
-     🔥 Atleast one problem to solve and atleast a single commit daily for existing and new projects.
-     🔥 Target Atleast 300 Problems to solve from Leet Code, GeekForGeek, Hanker Rank.
-     🔥 Focus on Vue js, React js and Next js.
-     🔥 Improve the previous code with coding best practice.
-     🔥 Contribute more to Open Source projects as much as possible.
-     🔥 Become a better developer.
-     🌱 Learning Docker & CI/CD & Kubernate for the future.
-     🌱 Micro Service Architecture
-     ✨ System Design
-     ✨ Design Patterns
-
-**⚡ Fun fact:**
-I love to travel and take photos of nature.
-
-    💼 Any freelance work? do reach, Mail : dipghosh638@gmail.com Mobile : +8801744499902
-    📍 I am currently living in Dhaka, Bangladesh.
-    💬 Ask me about anything, I am happy to help.
-      
-<table>
+  <table>
 <tr >
 <td valign="center">
     <a href="https://www.facebook.com/ghoshdip638/">
@@ -79,11 +55,34 @@ I love to travel and take photos of nature.
 </td>
 </tr>
 </table>
+  <tr>
+    <td valign="center">
+      
+      ✨This is Dip from Bangladesh, Full-stack engineer, creative coder, an open-source enthusiast, and maintainer.
+      🎓 I am currently concluded my **Master's in Computer Science And Engineering**.
+      🌱 I’m currently learning everything🤣
 
-<td>
-<a href="https://app.daily.dev/AdiOrbachin"><img src="https://api.daily.dev/devcards/050e1fb195f740f896374e7e2ab1117d.png?r=mfg" width="400" alt="Dip Ghosh's Dev Card"/></a>
-</td>
+**🎯 2023 Goals:**
 
+     🔥 Atleast one problem to solve and atleast a single commit daily for existing and new projects.
+     🔥 Target Atleast 300 Problems to solve from Leet Code, GeekForGeek, Hanker Rank.
+     🔥 Focus on Vue js, React js and Next js.
+     🔥 Improve the previous code with coding best practice.
+     🔥 Contribute more to Open Source projects as much as possible.
+     🔥 Become a better developer.
+     🌱 Learning Docker & CI/CD & Kubernate for the future.
+     🌱 Micro Service Architecture
+     ✨ System Design
+     ✨ Design Patterns
+
+      
+ **⚡ Fun fact:**
+      I love to travel and take photos of nature.
+
+    💼 Any freelance work? do reach,  💬 dipghosh638@gmail.com 🎯 +8801744499902
+    📍 I am currently living in Dhaka, Bangladesh.
+    💬 Ask me about anything, I am happy to help.
+    </td>
 </tr>
 </table>
 
