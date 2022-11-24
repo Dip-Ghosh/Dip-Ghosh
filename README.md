@@ -37,30 +37,28 @@
 
 <table>
   <tr>
-      <td valign="center"  width="23%" style="white-space:nowrap;">
+      <td valign="center"  width="30%" style="white-space:nowrap;">
         <a href="https://github.com/Dip-Ghosh">
              <img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dip-Ghosh&show_icons=true&line_height=27&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
         </a>
         </td>
-      <td valign="center" width="32%" style="white-space:nowrap;">
+      <td valign="center" width="40%" style="white-space:nowrap;">
         <a href="https://github.com/Dip-Ghosh">
           <img height="100%" width="100%" style="align-content: flex-start;display:block"  src="https://github-readme-stats.vercel.app/api?username=Dip-Ghosh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Dip's GitHub Stats" />
     </a>
       </td>
-      <td  valign="center" width="27%" style="white-space: nowrap; ">
+      <td  valign="center" width="30%" style="white-space: nowrap; ">
     <a href="http://github-readme-streak-stats.herokuapp.com/demo/?user=Dip-Ghosh&theme=solarized-dark&hide_border=true&date_format=M+j%5B%2C+Y%5D&properties=background">
            <img valign="center" width="100%" style="margin:0.5rem;display:block" alt="Dip's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dip-Ghosh&theme=solarized-dark&hide_border=true"/>
      </a>
 </td>
-      <td valign="center" width="18%" style="white-space: nowrap; ">
-<a href="https://app.daily.dev/AdiOrbachin"><img src="https://api.daily.dev/devcards/050e1fb195f740f896374e7e2ab1117d.png?r=mfg" width="400" alt="Dip Ghosh's Dev Card"/></a>
-</td>
+
 </tr>
 </table>
 
 <table>
 <tr>
-<td width="33.0%">
+<td width="23%">
 
  #### 💼 Programming Language
 
@@ -70,7 +68,7 @@
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=fcdc00)
 ![](https://img.shields.io/badge/MYSQL-informational?style=flat&logo=MYSQL&logoColor=white&color=00536f)
 </td>
-<td width="33.3%">
+<td width="35%">
 
 #### 💼 Frameworks & Library
 ![](https://img.shields.io/badge/Laravel-informational?style=flat&logo=angular&logoColor=white&color=dd1e11)
@@ -81,7 +79,7 @@
 ![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=white&color=764abc)
 ![](https://img.shields.io/badge/VueJs-informational?style=flat&logo=JavaScript&logoColor=white&color=42b883)
 </td>
-<td width="35%">
+<td width="42%">
 
 #### 💼 Environment & Others
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=eb732f)
@@ -182,9 +180,12 @@
 <table cellspacing="0">
 <tr>
 
-<td width="50%" height="10%" align="center" style="white-space: nowrap;">
+<td width="50%" height="50%" align="center" style="white-space: nowrap;">
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dip-Ghosh&theme=dracula&hide_border=true)
+</td>
+ <td valign="center" width="20%" style="white-space: nowrap; ">
+<a href="https://app.daily.dev/AdiOrbachin"><img src="https://api.daily.dev/devcards/050e1fb195f740f896374e7e2ab1117d.png?r=mfg" width="400" alt="Dip Ghosh's Dev Card"/></a>
 </td>
 <td  width="30%">
 
