@@ -29,29 +29,11 @@
 </tr>
 </table>
 
-<table width="100%">
-<tr>
-<td valign="center">
-
 ### Hey there 👋
 
     ✨ This is Dip from Bangladesh, Full-stack engineer, creative coder, an open-source enthusiast, and maintainer.
     🎓 I am currently concluded my **Master's in Computer Science And Engineering**.
     🌱 I’m currently learning everything🤣
-
-</td>
-<td>
-
-**⚡ Fun fact**
-        
-    🌱 I love to travel and take photos of nature.
-    💼 Any freelance work? do reach,  💬 dipghosh638@gmail.com 🎯 +8801744499902
-    📍 I am currently living in Dhaka, Bangladesh.
-    💬 Ask me about anything, I am happy to help.
-</td>
-
-</tr>
-</table>
 
 <table>
   <tr>
@@ -78,9 +60,48 @@
 
 <table>
 <tr>
-    <td valign="center">
+<td width="33.0%">
 
-**🎯 2023 Goals:**
+ #### 💼 Programming Language
+
+![](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=cbdbf6)
+![](https://img.shields.io/badge/C++-informational?style=flat&logo=c++&logoColor=white&color=004488)
+![](https://img.shields.io/badge/PHP-informational?style=flat&logo=PHP&logoColor=white&color=7a86b8)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=fcdc00)
+![](https://img.shields.io/badge/MYSQL-informational?style=flat&logo=MYSQL&logoColor=white&color=00536f)
+</td>
+<td width="33.3%">
+
+#### 💼 Frameworks & Library
+![](https://img.shields.io/badge/Laravel-informational?style=flat&logo=angular&logoColor=white&color=dd1e11)
+![](https://img.shields.io/badge/Lumen-informational?style=flat&logo=angular&logoColor=white&color=db4c3f)
+![](https://img.shields.io/badge/CodeIgniter-informational?style=flat&logo=gatsby&logoColor=white&color=eb9e98)
+![](https://img.shields.io/badge/jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=4A7)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=61dafb)
+![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=white&color=764abc)
+![](https://img.shields.io/badge/VueJs-informational?style=flat&logo=JavaScript&logoColor=white&color=42b883)
+</td>
+<td width="35%">
+
+#### 💼 Environment & Others
+![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=eb732f)
+![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=248dc7)
+![](https://img.shields.io/badge/Bootstrap4-informational?style=flat&logo=bootstrap&logoColor=white&color=7952b3)
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=efefe7)
+![](https://img.shields.io/badge/Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=0052cc)
+![](https://img.shields.io/badge/Linux-informational?style=flat&logo=Linux&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Vagrant-informational?style=flat&logo=Vagrant&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Homestead-informational?style=flat&logo=Clubhouse&logoColor=white&color=111f2c)
+![](https://img.shields.io/badge/latex-informational?style=flat&logo=latex&logoColor=white&color=efede6)
+![](https://img.shields.io/badge/Embold-informational?style=flat&logo=SonarQube&logoColor=white&color=edf2fa)
+![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=white&color=ff6c37)
+![](https://img.shields.io/badge/SonarCloud-informational?style=flat&logo=SonarCloud&logoColor=white&color=39057b)
+
+</td>
+</tr>
+</table>
+
+**🎯 2023 Goals**
 
      🔥 Atleast one problem to solve and atleast a single commit daily for existing and new projects.
      🔥 Target Atleast 300 Problems to solve from Leet Code, GeekForGeek, Hanker Rank.
@@ -92,40 +113,14 @@
      🌱 Micro Service Architecture
      ✨ System Design
      ✨ Design Patterns
-</td>
-    <td valign="center">
 
-#### 💼 Programming Language
-![](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=cbdbf6)
-![](https://img.shields.io/badge/C++-informational?style=flat&logo=c++&logoColor=white&color=004488)
-![](https://img.shields.io/badge/PHP-informational?style=flat&logo=PHP&logoColor=white&color=7a86b8)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=fcdc00)
-![](https://img.shields.io/badge/MYSQL-informational?style=flat&logo=MYSQL&logoColor=white&color=00536f)
-#### 💼 Frameworks & Library
-![](https://img.shields.io/badge/Laravel-informational?style=flat&logo=angular&logoColor=white&color=dd1e11)
-![](https://img.shields.io/badge/Lumen-informational?style=flat&logo=angular&logoColor=white&color=db4c3f)
-![](https://img.shields.io/badge/CodeIgniter-informational?style=flat&logo=gatsby&logoColor=white&color=eb9e98)
-![](https://img.shields.io/badge/jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=4A7)
-![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=61dafb)
-![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=white&color=764abc)
-![](https://img.shields.io/badge/VueJs-informational?style=flat&logo=JavaScript&logoColor=white&color=42b883)
-#### 💼 Environment & Others
-![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=eb732f)
-![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=248dc7)
-![](https://img.shields.io/badge/Bootstrap4-informational?style=flat&logo=bootstrap&logoColor=white&color=7952b3)
-![](https://img.shields.io/badge/Vagrant-informational?style=flat&logo=Vagrant&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Homestead-informational?style=flat&logo=Clubhouse&logoColor=white&color=111f2c)
-![](https://img.shields.io/badge/SonarCloud-informational?style=flat&logo=SonarCloud&logoColor=white&color=39057b)
-![](https://img.shields.io/badge/Embold-informational?style=flat&logo=SonarQube&logoColor=white&color=edf2fa)
-![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=efefe7)
-![](https://img.shields.io/badge/latex-informational?style=flat&logo=latex&logoColor=white&color=efede6)
-![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=white&color=ff6c37)
-![](https://img.shields.io/badge/Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=0052cc)
-![](https://img.shields.io/badge/Linux-informational?style=flat&logo=Linux&logoColor=white&color=4AB197)
+**⚡ Fun fact**
 
-</td>
-</tr>
-</table>
+    🌱 I love to travel and take photos of nature.
+    💼 Any freelance work? do reach,  💬 dipghosh638@gmail.com 🎯 +8801744499902
+    📍 I am currently living in Dhaka, Bangladesh.
+    💬 Ask me about anything, I am happy to help.
+
 
 <table cellspacing="0" style="border-collapse: collapse;border-spacing: 0;">
     <tr>
@@ -187,7 +182,7 @@
 <table cellspacing="0">
 <tr>
 
-<td width="70%" align="center" style="white-space: nowrap; ">
+<td width="50%" height="10%" align="center" style="white-space: nowrap;">
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dip-Ghosh&theme=dracula&hide_border=true)
 </td>
