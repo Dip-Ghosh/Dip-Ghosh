@@ -32,7 +32,7 @@
 ### Hey there 👋
 
     ✨ This is Dip from Bangladesh, Full-stack engineer, creative coder, an open-source enthusiast, and maintainer.
-    🎓 I am currently concluded my **Master's in Computer Science And Engineering**.
+    🎓 I am currently concluded my Master's in Computer Science And Engineering.
     🌱 I’m currently learning everything🤣
 
 <table>
