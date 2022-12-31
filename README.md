@@ -32,31 +32,33 @@
 <table>
 
 <tr>
-   <td style="white-space:nowrap;" width="40%">
+   <td style="white-space:nowrap;">
+   
+   ### Hey there 👋
 
-    ### Hey there 👋
-
-     ✨ This is Dip from Bangladesh, Full-stack engineer, creative coder, an open-source enthusiast, and maintainer.
-    🎓 I’m currently concluded my Master's in Computer Science And Engineering.
-    🌱 I’m currently learning everything🤣
+     ✨ This is Dip from Bangladesh.
+     🌱 I’m Full-stack engineer,creative coder,and maintainer.
+     🎓 I’m concluded my MSc. in CSE
+     🌱 I’m currently learning everything 🤣
 
    ### ⚡ Fun fact 
       🌱 I love to travel and take photos of nature. 
-      💼 Any freelance work? do reach, 💬 dipghosh638@gmail.com 🎯 +8801744499902
-      📍 I’m currently living in Dhaka, Bangladesh.
-      💬 Ask me about anything, I’m happy to help.
+      💼 Any freelance work? do reach
+      💬 dipghosh638@gmail.com 🎯 +8801744499902
+      📍 I’m currently living in Dhaka,Bangladesh.
+      💬 Ask me about anything,I’m happy to help.
    
    </td>
 
-   <td style="white-space:nowrap;" width="60%">
-   
-   ### 🎯2023 Goals
+   <td style="white-space:nowrap;">
+       
+   ### 🎯 2023 Goals
 
-     🔥 Atleast solve one problem daily and a single commit daily for existing and new projects.
-     🔥 Target 300 problems to solve from Leet Code, GeekForGeek, Hanker Rank.
-     🔥 Focus on Pure Javascript, Vue Js, and Nuxt Js.
+     🔥 Atleast solve one problem daily.
+     🔥 A single commit daily.
+     🔥 Target 300 problems to solve from Leet Code.
+     🔥 Focus on Pure Javascript,Vue JS,and Nuxt JS.
      🔥 Improve the previous code with coding best practice.
-     🔥 Contribute more to Open Source projects as much as possible.
      🔥 Become a better developer.
      🌱 Learning Docker & CI/CD & Kubernate for the future.
      🌱 Micro Service Architecture.
