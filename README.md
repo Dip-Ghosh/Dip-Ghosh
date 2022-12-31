@@ -58,6 +58,14 @@
 
 <table>
 <tr>
+    
+   | Programming Language | Backend Frameworks | Frontend Frameworks & Library | Others | Environment |
+   | :------------------- | :----------------- | :---------------------------- | :----- | :---------- |
+   |![](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=cbdbf6) ![](https://img.shields.io/badge/C++-informational?style=flat&logo=c++&logoColor=white&color=004488)
+![](https://img.shields.io/badge/PHP-informational?style=flat&logo=PHP&logoColor=white&color=7a86b8)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=fcdc00)
+![](https://img.shields.io/badge/MYSQL-informational?style=flat&logo=MYSQL&logoColor=white&color=00536f)|
+    
 <td width="23%">
 
  #### 💼 Programming Language
@@ -68,25 +76,34 @@
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=fcdc00)
 ![](https://img.shields.io/badge/MYSQL-informational?style=flat&logo=MYSQL&logoColor=white&color=00536f)
 </td>
-<td width="35%">
+<td>
 
-#### 💼 Frameworks & Library
+#### 💼 Backend Frameworks
 ![](https://img.shields.io/badge/Laravel-informational?style=flat&logo=angular&logoColor=white&color=dd1e11)
 ![](https://img.shields.io/badge/Lumen-informational?style=flat&logo=angular&logoColor=white&color=db4c3f)
 ![](https://img.shields.io/badge/CodeIgniter-informational?style=flat&logo=gatsby&logoColor=white&color=eb9e98)
+</td>
+ <td>
+     
+ #### 💼 Frontend Frameworks & Library
 ![](https://img.shields.io/badge/jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=4A7)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=61dafb)
 ![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=white&color=764abc)
 ![](https://img.shields.io/badge/VueJs-informational?style=flat&logo=JavaScript&logoColor=white&color=42b883)
-</td>
-<td width="42%">
+    </td>
+<td >
 
-#### 💼 Environment & Others
+#### 💼  & Others
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=eb732f)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=248dc7)
 ![](https://img.shields.io/badge/Bootstrap4-informational?style=flat&logo=bootstrap&logoColor=white&color=7952b3)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=efefe7)
 ![](https://img.shields.io/badge/Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=0052cc)
+
+</td>
+<td>
+
+#### 💼 Environment
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=Linux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Vagrant-informational?style=flat&logo=Vagrant&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Homestead-informational?style=flat&logo=Clubhouse&logoColor=white&color=111f2c)
