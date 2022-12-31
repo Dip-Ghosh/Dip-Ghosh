@@ -162,7 +162,7 @@
 
 <td width="50%" height="50%" align="center" style="white-space: nowrap;">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dip-Ghosh&theme=dracula&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dip-Ghosh&theme=react-dark&hide_border=true&area=true)
 </td>
  <td valign="center" width="20%" style="white-space: nowrap; ">
 <a href="https://app.daily.dev/AdiOrbachin"><img src="https://api.daily.dev/devcards/050e1fb195f740f896374e7e2ab1117d.png?r=mfg" width="400" alt="Dip Ghosh's Dev Card"/></a>
