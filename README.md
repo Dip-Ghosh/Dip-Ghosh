@@ -30,37 +30,40 @@
 </table>
 
 <table>
+
 <tr>
- <th align="left"> ### Hey there 👋   </th>
- <th align="left"> **🎯 2023 Goals** </th>
- <th align="left"> **⚡ Fun fact**    </th>
-</tr>
-<tr>
-   <td valign="center"  width="30%" style="white-space:nowrap;">
-    ✨ This is Dip from Bangladesh, Full-stack engineer, creative coder, an open-source enthusiast, and maintainer.<br>
-    🎓 I am currently concluded my Master's in Computer Science And Engineering.<br>
+   <td style="white-space:nowrap;" width="40%">
+
+    ### Hey there 👋
+
+     ✨ This is Dip from Bangladesh, Full-stack engineer, creative coder, an open-source enthusiast, and maintainer.
+    🎓 I’m currently concluded my Master's in Computer Science And Engineering.
     🌱 I’m currently learning everything🤣
+
+   ### ⚡ Fun fact 
+      🌱 I love to travel and take photos of nature. 
+      💼 Any freelance work? do reach, 💬 dipghosh638@gmail.com 🎯 +8801744499902
+      📍 I’m currently living in Dhaka, Bangladesh.
+      💬 Ask me about anything, I’m happy to help.
+   
    </td>
 
-   <td width="40%" style="white-space:nowrap;">
-     🔥 Atleast one problem to solve and atleast a single commit daily for existing and new projects.<br>
-     🔥 Target Atleast 300 Problems to solve from Leet Code, GeekForGeek, Hanker Rank.<br>
-     🔥 Focus on Vue js, React js and Next js.<br>
-     🔥 Improve the previous code with coding best practice.<br>
-     🔥 Contribute more to Open Source projects as much as possible.<br>
-     🔥 Become a better developer.<br>
-     🌱 Learning Docker & CI/CD & Kubernate for the future.<br>
-     🌱 Micro Service Architecture <br>
-     ✨ System Design <br>
+   <td style="white-space:nowrap;" width="60%">
+   
+   ### 🎯2023 Goals
+
+     🔥 Atleast solve one problem daily and a single commit daily for existing and new projects.
+     🔥 Target 300 problems to solve from Leet Code, GeekForGeek, Hanker Rank.
+     🔥 Focus on Pure Javascript, Vue Js, and Nuxt Js.
+     🔥 Improve the previous code with coding best practice.
+     🔥 Contribute more to Open Source projects as much as possible.
+     🔥 Become a better developer.
+     🌱 Learning Docker & CI/CD & Kubernate for the future.
+     🌱 Micro Service Architecture.
+     ✨ System Design
      ✨ Design Patterns
    </td>
 
-   <td width="30%" style="white-space:nowrap;">
-    🌱 I love to travel and take photos of nature. <br>
-    💼 Any freelance work? do reach, 💬 dipghosh638@gmail.com 🎯 +8801744499902 <br>
-    📍 I am currently living in Dhaka, Bangladesh. <br>
-    💬 Ask me about anything, I am happy to help.
-   </td>
 </tr>
 </table>
 
