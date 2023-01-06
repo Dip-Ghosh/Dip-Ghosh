@@ -99,15 +99,13 @@
 </table>
 
 <table cellspacing="0" style="border-collapse: collapse;border-spacing: 0;">
-    <tr>
-</tr>
-<tr>
-
-  
-</tr>
-<tr>
-
-</tr>
+<caption>FrontEnd Projects</caption>
+ <tr>
+<td> <a href="https://dip-qr-code-scanner.netlify.app/"><img src="./img/qr-code.png"></a></td>
+<td> <a href="https://dip-quiz-app.netlify.app/"><img src="img/quiz.png"></a></td>
+<td> <a href="https://dip-upcoming-year-count-down.netlify.app/"><img src="img/countdown-time.png"></a></td>
+<td> <a href="https://crud-vue-lumen.netlify.app/"><img src="img/vue-js-crud.png.png"></a></td>
+</tr>   
  </table>
 
 
@@ -121,23 +119,11 @@
       <td>
           <table>
                <tr>
-<td>
-        <a href="https://github.com/Dip-Ghosh/Solid-Design-Principle">
-          <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Solid-Design-Principle&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-        </a>
-</td>
-<td>
-<a href="https://github.com/Dip-Ghosh/Design-Pattern"> 
-<img  src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Design-Pattern&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-</td>
-<td>
-            <a href=" https://github.com/Dip-Ghosh/Job-portal">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Job-portal&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-            </a>
-</td>
-</tr>
-<tr>
+                   <a href="https://github.com/Dip-Ghosh/Solid-Design-Principle"><img width="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Solid-Design-Principle&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>
+                   <a href="https://github.com/Dip-Ghosh/Design-Pattern"><img width="150px"  src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Design-Pattern&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>
+                   <a href=" https://github.com/Dip-Ghosh/Job-portal"><img  width="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Job-portal&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>
+               </tr>
+               <tr>
 <td>
         <a href="https://github.com/Dip-Ghosh/add-to-cart">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=add-to-cart&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -147,15 +133,12 @@
         <a href="https://github.com/Dip-Ghosh/Social-media">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Social-media&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
         </a>
-</td>
-<td>
         <a href="https://github.com/Dip-Ghosh/problem-solving">
 <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Problem-solving&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-</td>
 </tr>
-<tr>
+               <tr>
 <td>
         <a href="https://github.com/Dip-Ghosh/Repository-Pattern-Project">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Repository-Pattern-Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -175,13 +158,8 @@
          </table>
       </td>
       <td>
-            <table>
-               <tr>
-                     <td> <a href="https://dip-qr-code-scanner.netlify.app/"><img width="150px" src="img/qr-code.png"></a></td>
-                     <td> <a href="https://dip-quiz-app.netlify.app/"><img width="150px" src="img/quiz.png"></a></td>
-                     <td> <a href="https://dip-upcoming-year-count-down.netlify.app/"><img width="150px" src="img/countdown-time.png"></a></td>
-                     <td> <a href="https://crud-vue-lumen.netlify.app/"><img width="150px" src="img/vue-js-crud.png.png"></a></td>
-               </tr>
+         <table>
+              
             </table>
       <td>
     </tr>
