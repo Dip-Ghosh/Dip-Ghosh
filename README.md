@@ -29,12 +29,14 @@
 </tr>
 </table>
 
-<table>
+<table width="100%">
+<tr>
+   <th> Hey there 👋</th>   
+   <th> 🎯 2023 Goals</th>   
+</tr> 
 
 <tr>
-   <td style="white-space:nowrap;">
-   
-   ### Hey there 👋
+   <td style="white-space:nowrap;padding: 0">
 
      ✨ This is Dip from Bangladesh.
      🌱 I’m Full-stack engineer,creative coder,and maintainer.
@@ -47,12 +49,10 @@
       💬 dipghosh638@gmail.com 🎯 +8801744499902
       📍 I’m currently living in Dhaka,Bangladesh.
       💬 Ask me about anything,I’m happy to help.
-   
+
    </td>
 
-   <td style="white-space:nowrap;">
-       
-   ### 🎯 2023 Goals
+   <td style="white-space:nowrap;padding: 0">
 
      🔥 Atleast solve one problem daily.
      🔥 A single commit daily.
@@ -157,6 +157,31 @@
 </tr>
  </table>
 
+
+
+<table cellspacing="0" style="border-collapse: collapse;border-spacing: 0;">
+   <tr>
+      <th>Laravel Project</th>
+      <th>Vanilla Js Projects</th>
+      <th>Reacts Project</th>
+      <th>Vue Js Project</th>
+   </tr>
+    <tr>
+      <td>
+        <a href="https://dip-qr-code-scanner.netlify.app/"><img  src="img/qr-code.png"></a>
+      </td> 
+      <td>
+        <a href="https://dip-quiz-app.netlify.app/"><img  src="img/quiz.png"></a>
+      </td>
+      <td>
+        <a href="https://dip-upcoming-year-count-down.netlify.app/"><img  src="img/countdown-time.png"></a>
+      </td>
+      <td>
+        <a href="https://crud-vue-lumen.netlify.app"><img  src="img/vue-js-crud.png"></a>
+      </td>
+   </tr>
+ </table>
+
 <table cellspacing="0">
 <tr>
 
@@ -180,20 +205,3 @@
  </table>
 
 
-
-<table cellspacing="0" style="border-collapse: collapse;border-spacing: 0;">
-    <tr>
-      <td>
-        <a href="https://dip-qr-code-scanner.netlify.app/"><img  src="img/qr-code.png" /></a>
-      </td> 
-      <td>
-        <a href="https://dip-quiz-app.netlify.app/"><img  src="img/quiz.png" /></a>
-      </td>
-      <td>
-        <a href="https://dip-upcoming-year-count-down.netlify.app/"><img  src="img/countdown-time.png" /></a>
-      </td>
-      <td>
-        <a href="https://crud-vue-lumen.netlify.app/signup"><img  src="img/vue-js-crud.png" /></a>
-      </td>
-   </tr>
- </table>
