@@ -36,25 +36,23 @@
 </tr> 
 
 <tr>
-   <td style="white-space:nowrap;padding:0;" width="30%">
+   <td style="white-space:nowrap;" width="15%">
 
-     ✨ This is Dip from Bangladesh.
-     🌱 I’m Full-stack engineer,creative coder,and maintainer.
+     ✨ This is Dip from Dhaka, Bangladesh.
+     🌱 I’m Full-stack engineer,creative coder.
      🎓 I’m concluded my MSc. in CSE
      🌱 I’m currently learning everything 🤣
-
    ### ⚡ Fun fact 
-      🌱 I love to travel and take photos of nature. 
+      🌱 Love to travel and take photos. 
       💼 Any freelance work? do reach
       💬 dipghosh638@gmail.com 🎯 +8801744499902
-      📍 I’m currently living in Dhaka,Bangladesh.
       💬 Ask me about anything,I’m happy to help.
 
    </td>
 
-   <td style="white-space:nowrap;padding: 0" width="60%">
+   <td style="white-space:nowrap;" width="30%;">
 
-     🔥 Atleast solve one problem daily.
+     🔥 Atleast solve one problem daily. 
      🔥 A single commit daily.
      🔥 Target 300 problems to solve from Leet Code.
      🔥 Focus on Pure Javascript,Vue JS,and Nuxt JS.
