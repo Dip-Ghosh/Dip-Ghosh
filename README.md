@@ -36,7 +36,7 @@
 </tr> 
 
 <tr>
-   <td style="white-space:nowrap;" width="15%">
+   <td style="white-space:nowrap;" width="20%">
 
      ✨ This is Dip from Dhaka, Bangladesh.
      🌱 I’m Full-stack engineer,creative coder.
