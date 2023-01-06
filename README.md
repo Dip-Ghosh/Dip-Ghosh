@@ -99,21 +99,28 @@
 </table>
 
 <table width="100%" cellspacing="0" style="border-collapse: collapse;border-spacing: 0;">
-<caption> <span style="font-weight: bold; font-size:15px ">FrontEnd Projects</span></caption>
+
+### FrontEnd Projects
  <tr>
+<table>
+<tr>
 <td> <a href="https://dip-qr-code-scanner.netlify.app/"><img src="./img/qr-code.png"></a></td>
 <td> <a href="https://dip-quiz-app.netlify.app/"><img src="./img/quiz.png"></a></td>
 <td> <a href="https://dip-upcoming-year-count-down.netlify.app/"><img src="./img/countdown-time.png"></a></td>
 </tr>
 <tr>
 <td> <a href="https://crud-vue-lumen.netlify.app/"><img src="./img/vue-js-crud.png.png"></a></td>
-</tr>   
+</tr>  
+</table>
+</tr> 
 </table>
 
 
 <table cellspacing="0" style="border-collapse: collapse;border-spacing: 0;">
-    <tr>
-      <td>
+
+### Backend Projects
+<tr> 
+   <td>
           <table>
                <tr>
                    <a href="https://github.com/Dip-Ghosh/Solid-Design-Principle"><img width="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Dip-Ghosh&repo=Solid-Design-Principle&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>
@@ -154,8 +161,8 @@
                </tr>
          </table>
       </td>
-    </tr>
- </table>
+</tr>
+</table>
 
 <table cellspacing="0">
 <tr>
