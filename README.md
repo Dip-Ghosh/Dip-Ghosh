@@ -107,10 +107,11 @@
 <td> <a href="https://dip-qr-code-scanner.netlify.app/"><img  width="200px" src="./img/qr-code.png"></a></td>
 <td> <a href="https://dip-quiz-app.netlify.app/"><img width="200px" src="./img/quiz.png"></a></td>
 <td> <a href="https://dip-upcoming-year-count-down.netlify.app/"><img width="200px" src="./img/countdown-time.png"></a></td>
+<td> <a href="https://crud-vue-lumen.netlify.app/"><img width="200px" src="./img/vue-js-crud.png"></a></td>
 </tr> 
 <tr>
 <td> <a href="https://teams-clone-react.netlify.app/"><img width="200px" src="./img/teams-clone.png"></a></td>
-<td> <a href="https://crud-vue-lumen.netlify.app/"><img width="200px" src="./img/vue-js-crud.png"></a></td>
+
 </tr>
 </table>
 </tr> 
