@@ -36,7 +36,7 @@
 </tr> 
 
 <tr>
-   <td style="white-space:nowrap;padding: 0">
+   <td style="white-space:nowrap;padding:0;" width="30%">
 
      ✨ This is Dip from Bangladesh.
      🌱 I’m Full-stack engineer,creative coder,and maintainer.
@@ -52,7 +52,7 @@
 
    </td>
 
-   <td style="white-space:nowrap;padding: 0">
+   <td style="white-space:nowrap;padding: 0" width="60%">
 
      🔥 Atleast solve one problem daily.
      🔥 A single commit daily.
