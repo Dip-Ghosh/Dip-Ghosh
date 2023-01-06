@@ -98,15 +98,15 @@
 </tr>
 </table>
 
-<table cellspacing="0" style="border-collapse: collapse;border-spacing: 0;">
-<caption>FrontEnd Projects</caption>
+<table width="100%" cellspacing="0" style="border-collapse: collapse;border-spacing: 0;">
+<caption style="font-weight: bold; font-size:15px ">FrontEnd Projects</caption>
  <tr>
 <td> <a href="https://dip-qr-code-scanner.netlify.app/"><img src="./img/qr-code.png"></a></td>
-<td> <a href="https://dip-quiz-app.netlify.app/"><img src="img/quiz.png"></a></td>
-<td> <a href="https://dip-upcoming-year-count-down.netlify.app/"><img src="img/countdown-time.png"></a></td>
-<td> <a href="https://crud-vue-lumen.netlify.app/"><img src="img/vue-js-crud.png.png"></a></td>
+<td> <a href="https://dip-quiz-app.netlify.app/"><img src="./img/quiz.png"></a></td>
+<td> <a href="https://dip-upcoming-year-count-down.netlify.app/"><img src="./img/countdown-time.png"></a></td>
+<td> <a href="https://crud-vue-lumen.netlify.app/"><img src="./img/vue-js-crud.png.png"></a></td>
 </tr>   
- </table>
+</table>
 
 
 
