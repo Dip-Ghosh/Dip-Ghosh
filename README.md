@@ -32,7 +32,7 @@
 <table width="100%">
 
 <tr>
-   <td style="white-space:nowrap;" nowrap width="5%">
+   <td style="white-space:nowrap;" width="15%">
 
 ### Hey there 👋
      ✨ This is Dip from Dhaka, Bangladesh,a full-stack engineer,creative coder and maintainer.
@@ -60,7 +60,7 @@
 
    </td>
 
-   <td style="white-space:nowrap;" width="80%;">
+   <td style="white-space:nowrap;" width="30%;">
 
 
 #### Programming Languages
