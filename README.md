@@ -35,30 +35,23 @@
    <td style="white-space:nowrap;" width="15%">
 
 ### Hey there 👋
-     ✨ This is Dip from Dhaka, Bangladesh,a full-stack engineer,creative coder and maintainer.
-     🎓 I’m concluded my MSc. in CSE
-     🌱 I’m currently learning everything 🤣
+    ✨ This is Dip from Dhaka, Bangladesh
+    🌱  I'm a full-stack engineer,creative coder.
+    🎓 I’d concluded my MSc. in CSE
+    🌱 I’m currently learning everything 🤣
         
 #### 🎯 2023 Goals
 
-     🔥 Atleast solve one problem daily. 
-     🔥 A single commit daily.
-     🔥 Target 300 problems to solve from Leet Code.
-     🔥 Focus on Pure Javascript,Vue JS,and Nuxt JS.
-     🔥 Improve the previous code with coding best practice.
-     🔥 Become a better developer.
-     🌱 Learning Docker & CI/CD & Kubernate for the future.
-     🌱 Micro Service Architecture.
-     ✨ System Design
-     ✨ Design Patterns
-
+    🔥 Atleast one single commit daily. 
+    🔥 Target 300 problems to solve from Leet Code,GeeksForGeek.
+    🔥 Focus on Pure Javascript,Vue JS,and Nuxt JS.
+    ✨ Motivate on System Design, Design Patterns
+    🌱 Focus on Docker, CI&CD, Kubernate, MicroService Architecture
 #### ⚡ Fun fact 
-      🌱 Love to travel and take photos. 
-      💼 Any freelance work? do reach
-      💬 dipghosh638@gmail.com 🎯 +8801744499902
-      💬 Ask me about anything,I’m happy to help
-
-   </td>
+    🌱 Love to travel and take photos. 
+    💼 Any freelance work? do reach
+    💬 dipghosh638@gmail.com 🎯 +8801744499902
+</td>
 
    <td style="white-space:nowrap;" width="30%;">
 
