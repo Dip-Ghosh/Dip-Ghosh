@@ -30,25 +30,19 @@
 </table>
 
 <table width="100%">
+
+
 <tr>
    <td style="white-space:nowrap;" width="15%">
-<dl>
-<dt>
 
-#### Hey there 👋
-</dt>
-<dd>
+### Hey there 👋
  
     ✨ This is Dip from Dhaka, Bangladesh
     🌱  I'm a full-stack engineer,creative coder.
     🎓 I’d concluded my MSc. in CSE
     🌱 I’m currently learning everything 🤣
-</dd>
-<dt>
 
 #### 🎯 2023 Goals
-</dt>
-<dd>
 
     🔥 Atleast one single commit daily. 
     🔥 Target 300 problems to solve from Leet Code,GeeksForGeek.
@@ -56,76 +50,37 @@
     ✨ Motivate on System Design, Design Patterns
     🌱 Focus on Docker, CI&CD, Kubernate, MicroService Architecture
 
-</dd>
-<dt>
-
-#### ⚡ Fun fact 
-
-</dt>
-<dd>
-
-     🌱 Love to travel and take photos. 
+   #### Fun fact
+    🌱 Love to travel and take photos. 
     💼 Any freelance work? do reach
     💬 dipghosh638@gmail.com 🎯 +8801744499902
-</dd>
-</dl>
-
-
 </td>
 
    <td style="white-space:nowrap;" width="30%;">
-<dl>
-<dt>
+
 
 #### Programming Languages
-</dt>
-<dd>
-
 ![](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=cbdbf6)
 ![](https://img.shields.io/badge/C++-informational?style=flat&logo=c++&logoColor=white&color=004488)
 ![](https://img.shields.io/badge/PHP-informational?style=flat&logo=PHP&logoColor=white&color=7a86b8)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=fcdc00)
 ![](https://img.shields.io/badge/MYSQL-informational?style=flat&logo=MYSQL&logoColor=white&color=00536f)
 
-</dd>
-
-<dt>
 
 #### Backend Frameworks
-
-</dt>
-<dd>
-
-
 ![](https://img.shields.io/badge/Laravel-informational?style=flat&logo=angular&logoColor=white&color=dd1e11)
 ![](https://img.shields.io/badge/Lumen-informational?style=flat&logo=angular&logoColor=white&color=db4c3f)
 ![](https://img.shields.io/badge/CodeIgniter-informational?style=flat&logo=gatsby&logoColor=white&color=eb9e98)
 
-</dd>
-
-<dt>
-
 #### Frontend Frameworks & Library
-
-</dt>
-<dd>
-
 ![](https://img.shields.io/badge/Vanilla-JavaScript?style=flat&logo=JavaScript&logoColor=white&color=fcdc00)
 ![](https://img.shields.io/badge/VueJs-informational?style=flat&logo=JavaScript&logoColor=white&color=42b883)
 ![](https://img.shields.io/badge/jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=4A7)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=61dafb)
 ![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=white&color=764abc)
 
-</dd>
-
-
-<dt>
 
 #### Technology Miscellaneous
-
-</dt>
-<dd>
-
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=eb732f)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=248dc7)
 ![](https://img.shields.io/badge/Bootstrap4-informational?style=flat&logo=bootstrap&logoColor=white&color=7952b3)
@@ -133,14 +88,7 @@
 ![](https://img.shields.io/badge/Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=0052cc)
 
 
-</dd>
-
-<dt>
-
 #### Environment
-</dt>
-<dd>
-
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=white&color=ff6c37)
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=Linux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Vagrant-informational?style=flat&logo=Vagrant&logoColor=white&color=4AB197)
@@ -150,8 +98,6 @@
 ![](https://img.shields.io/badge/Embold-informational?style=flat&logo=SonarQube&logoColor=white&color=edf2fa)
 ![](https://img.shields.io/badge/SonarCloud-informational?style=flat&logo=SonarCloud&logoColor=white&color=39057b)
 
-</dd>
-</dl>
 
 <table width="100%" ccellspacing="0" style="border-collapse: collapse;border-spacing: 0;">
  <tr>
