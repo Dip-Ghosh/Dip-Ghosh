@@ -145,6 +145,7 @@
 <td> <a href="https://crud-vue-lumen.netlify.app/"><img width="250px" src="./img/vue-js-crud.png"></a></td>
 </tr> 
 <tr>
+<td> <a href="https://dip-meal-app.netlify.app/"><img width="250px" src="./img/recipe-app.png"></a></td>
 <td> <a href="https://teams-clone-react.netlify.app/"><img width="250px" src="./img/teams-clone.png"></a></td>
 
 </tr>
