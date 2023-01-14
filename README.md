@@ -146,6 +146,7 @@
 </tr> 
 <tr>
 <td> <a href="https://dip-meal-app.netlify.app/"><img width="250px" src="./img/recipe-app.png"></a></td>
+<td> <a href="https://dip-movie.netlify.app/"><img width="250px" src="./img/movie.png"></a></td>
 <td> <a href="https://teams-clone-react.netlify.app/"><img width="250px" src="./img/teams-clone.png"></a></td>
 
 </tr>
