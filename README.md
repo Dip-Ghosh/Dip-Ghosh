@@ -139,19 +139,19 @@
  <tr>
 <table>
 <tr>
-<td> <a href="https://dip-meal-app.netlify.app/"><img width="250px" src="./img/recipe-app.png"></a></td>
-<td> <a href="https://dip-qr-code-scanner.netlify.app/"><img  width="250px" src="./img/qr-code.png"></a></td>
-<td> <a href="https://dip-github-profile-overview.netlify.app/"><img width="250px" src="./img/github.png"></a></td>
-<td> <a href="https://dip-movie.netlify.app/"><img width="250px" src="./img/movie.png"></a></td>
-<td> <a href="https://dip-meal-app.netlify.app/"><img width="250px" src="./img/recipe-app.png"></a></td>
-<td> <a href="https://dip-weather.netlify.app/"><img width="250px" src="./img/weather.png"></a></td>
+<td> <a href="https://dip-meal-app.netlify.app/"><img width="400px" src="./img/recipe-app.png"></a></td>
+<td> <a href="https://dip-qr-code-scanner.netlify.app/"><img  width="400px" src="./img/qr-code.png"></a></td>
+<td> <a href="https://dip-github-profile-overview.netlify.app/"><img width="400px" src="./img/github.png"></a></td>
+<td> <a href="https://dip-movie.netlify.app/"><img width="400px" src="./img/movie.png"></a></td>
+<td> <a href="https://dip-meal-app.netlify.app/"><img width="400px" src="./img/recipe-app.png"></a></td>
+<td> <a href="https://dip-weather.netlify.app/"><img width="400px" src="./img/weather.png"></a></td>
 
 
 </tr> 
 <tr>
-<td> <a href="https://dip-upcoming-year-count-down.netlify.app/"><img width="250px" src="./img/countdown-time.png"></a></td>
-<td> <a href="https://dip-quiz-app.netlify.app/"><img width="250px" src="./img/quiz.png"></a></td>
-<td> <a href="https://dip-converter.netlify.app/"><img width="250px" src="./img/converter.png"></a></td>
+<td> <a href="https://dip-upcoming-year-count-down.netlify.app/"><img width="400px" src="./img/countdown-time.png"></a></td>
+<td> <a href="https://dip-quiz-app.netlify.app/"><img width="400px" src="./img/quiz.png"></a></td>
+<td> <a href="https://dip-converter.netlify.app/"><img width="400px" src="./img/converter.png"></a></td>
 </tr> 
 </table>
 </tr> 
