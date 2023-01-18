@@ -135,7 +135,7 @@
 
 <table width="100%" ccellspacing="0" style="border-collapse: collapse;border-spacing: 0;">
 
-### Frontend Projects
+### Vanilla Js Projects
  <tr>
 <table>
 <tr>
@@ -145,14 +145,29 @@
 <td> <a href="https://dip-quiz-app.netlify.app/"><img width="250px" src="./img/quiz.png"></a></td>
 <td> <a href="https://dip-weather.netlify.app/"><img width="250px" src="./img/weather.png"></a></td>
 <td> <a href="https://dip-upcoming-year-count-down.netlify.app/"><img width="250px" src="./img/countdown-time.png"></a></td>
-<td> <a href="https://teams-clone-react.netlify.app/"><img width="250px" src="./img/teams-clone.png"></a></td>
-</tr> 
-<tr>
+<td> <a href="https://dip-converter.netlify.app/"><img width="250px" src="./img/converter.png"></a></td>
 
+</tr> 
+
+</table>
+</tr> 
+
+### Vue Js Projects
+
+<table>
+<tr>
 <td> <a href="https://crud-vue-lumen.netlify.app/"><img width="250px" src="./img/vue-js-crud.png"></a></td>
 </tr>
 </table>
-</tr> 
+
+### React Projects
+
+<table>
+<tr>
+<td> <a href="https://teams-clone-react.netlify.app/"><img width="250px" src="./img/teams-clone.png"></a></td>
+</tr>
+</table>
+
 </table>
 
 
