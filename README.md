@@ -1,35 +1,5 @@
 
 <table width="100%">
-<tr>
-    <td valign="center">
-        <a href="https://www.facebook.com/ghoshdip638/">
-             <img align="left" alt="Dip's Facebook" width="22px" src="https://www.facebook.com/images/fb_icon_325x325.png" />
-        </a>
-    </td>
-    <td valign="center">
-    <a href="https://twitter.com/dipghosh638">
-  <img align="left" alt="Dip's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-</td>
-    <td valign="center">
-<a href="https://www.linkedin.com/in/dip-ghosh/">
-  <img align="left" alt="Dip's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-</td>
-    <td valign="center">
-<a href="https://github.com/Dip-Ghosh/">
-  <img align="left" alt="Dip's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
-</a>
-</td>
-    <td valign="center">
-<a href="https://www.instagram.com/adiorbachin/">
-  <img align="left" alt="Dip | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-</td>
-</tr>
-</table>
-
-<table width="100%">
 
 
 <tr>
