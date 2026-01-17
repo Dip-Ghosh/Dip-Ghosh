@@ -126,19 +126,12 @@
 </table>
 </tr> 
 
-### Vue Js Projects
+
 
 <table>
 <tr>
-<td> <a href="https://crud-vue-lumen.netlify.app/"><img width="250px" src="./img/vue-js-crud.png"></a></td>
-</tr>
-</table>
-
-### React Projects
-
-<table>
-<tr>
-<td> <a href="https://teams-clone-react.netlify.app/"><img width="250px" src="./img/teams-clone.png"></a></td>
+<td>Vue Js Projects <a href="https://crud-vue-lumen.netlify.app/"><img width="250px" src="./img/vue-js-crud.png"></a></td>
+<td>React Projects <a href="https://teams-clone-react.netlify.app/"><img width="250px" src="./img/teams-clone.png"></a></td>
 </tr>
 </table>
 
