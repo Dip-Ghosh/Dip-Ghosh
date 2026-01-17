@@ -122,18 +122,11 @@
 <td> <a href="https://dip-upcoming-year-count-down.netlify.app/"><img width="400px" src="./img/countdown-time.png"></a></td>
 <td> <a href="https://dip-quiz-app.netlify.app/"><img width="400px" src="./img/quiz.png"></a></td>
 <td> <a href="https://dip-converter.netlify.app/"><img width="400px" src="./img/converter.png"></a></td>
+<td><a href="https://crud-vue-lumen.netlify.app/" ><img width="400px" src="./img/vue-js-crud.png"></a></td>
+<td><a href="https://teams-clone-react.netlify.app/"><img width="400px" src="./img/teams-clone.png"></a></td>
 </tr> 
 </table>
 </tr> 
-
-
-
-<table>
-<tr>
-<td>Vue Js Projects <a href="https://crud-vue-lumen.netlify.app/"><img width="250px" src="./img/vue-js-crud.png"></a></td>
-<td>React Projects <a href="https://teams-clone-react.netlify.app/"><img width="250px" src="./img/teams-clone.png"></a></td>
-</tr>
-</table>
 
 </table>
 
